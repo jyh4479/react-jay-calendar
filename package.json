@@ -1,10 +1,10 @@
 {
-  "name": "react-jay-calendar",
-  "version": "0.0.1",
+  "name": "react-jay-compone",
+  "version": "0.0.2",
   "description": "Jay React Component",
   "repository": "https://github.com/jyh4479/react-jay-calendar.git",
   "author": "jyh4479",
-  "license": "MIT",
+  "license": "Open License",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "storybook": "start-storybook -p 6006 -s public",
